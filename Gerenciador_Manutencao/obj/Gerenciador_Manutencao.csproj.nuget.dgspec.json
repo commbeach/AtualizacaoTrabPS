@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\Trabalho1_PS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj": {}
+    "C:\\GIT\\AtualizacaoTrabPS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\Trabalho1_PS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj": {
+    "C:\\GIT\\AtualizacaoTrabPS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\Trabalho1_PS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj",
+        "projectUniqueName": "C:\\GIT\\AtualizacaoTrabPS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj",
         "projectName": "Gerenciador_Manutencao",
-        "projectPath": "C:\\GIT\\Trabalho1_PS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj",
+        "projectPath": "C:\\GIT\\AtualizacaoTrabPS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj",
         "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\Trabalho1_PS\\Gerenciador_Manutencao\\obj\\",
+        "outputPath": "C:\\GIT\\AtualizacaoTrabPS\\Gerenciador_Manutencao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cliente\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,7 +45,15 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.0, )"
             }
           },
           "imports": [
