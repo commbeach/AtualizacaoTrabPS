@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IK4pVwYisbs=",
+  "dgSpecHash": "YMSQNeNhLOs=",
   "success": true,
-  "projectFilePath": "C:\\GIT\\AtualizacaoTrabPS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj",
+  "projectFilePath": "C:\\GIT\\Trabalho1_PS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.1\\microsoft.entityframeworkcore.9.0.1.nupkg.sha512",
     "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.1\\microsoft.entityframeworkcore.abstractions.9.0.1.nupkg.sha512",

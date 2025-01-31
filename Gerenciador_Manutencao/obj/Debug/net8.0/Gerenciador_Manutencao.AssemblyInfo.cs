@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gerenciador_Manutencao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ae18631138bedbe405c80570c519ffb6a0443dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2193cc47c3298b9bde2573baa65cc438d16ad4b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gerenciador_Manutencao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gerenciador_Manutencao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

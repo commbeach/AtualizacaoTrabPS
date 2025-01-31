@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\AtualizacaoTrabPS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj": {}
+    "C:\\GIT\\Trabalho1_PS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\AtualizacaoTrabPS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj": {
+    "C:\\GIT\\Trabalho1_PS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\AtualizacaoTrabPS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj",
+        "projectUniqueName": "C:\\GIT\\Trabalho1_PS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj",
         "projectName": "Gerenciador_Manutencao",
-        "projectPath": "C:\\GIT\\AtualizacaoTrabPS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj",
+        "projectPath": "C:\\GIT\\Trabalho1_PS\\Gerenciador_Manutencao\\Gerenciador_Manutencao.csproj",
         "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\AtualizacaoTrabPS\\Gerenciador_Manutencao\\obj\\",
+        "outputPath": "C:\\GIT\\Trabalho1_PS\\Gerenciador_Manutencao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cliente\\AppData\\Roaming\\NuGet\\NuGet.Config"

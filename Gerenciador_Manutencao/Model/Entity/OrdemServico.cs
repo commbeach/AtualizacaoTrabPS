@@ -7,6 +7,6 @@ public class OrdemServico
      public string status { get; set; }
     public DateTime dataAbertura { get; set; }
     public DateTime dataFinalizacao { get; set; }
-    public Manutencao Manutencao { get; set; }
+    public int idManutencao { get; set; }
     public List<(Item Item, int Quantidade)> Itens { get; set; } = new List<(Item, int)>();
 }
